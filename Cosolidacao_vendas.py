@@ -5,8 +5,8 @@
 
 import os
 lista_arquivo = os.listdir("C:/Users/Paulo Maia/Desktop/Projeto 4 Consolidação Vendas/Vendas")
-print(lista_arquivo)
-for arquivo in lista_arquivo:
-    print(arquivo)
 
+for arquivo in lista_arquivo:
+    if "Vendas" in arquivo:
+        print(f"C:/Users/Paulo Maia/Desktop/Projeto 4 Consolidação Vendas/Vendas/{arquivo}")
 
