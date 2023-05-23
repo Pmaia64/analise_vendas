@@ -1,3 +1,4 @@
+Para esse projeto utilizei o google colab como editor do Python
 Projeto para consolidação de vendas de uma cadeia de lojas
 Percorrer todos os arquivos de uma base de dados;
 Importar as bases de dados de vendas;
